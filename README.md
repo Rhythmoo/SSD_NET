@@ -7,7 +7,9 @@
 python3.6 ,tensorfolw1.4, flask
 
 #### 运行界面
-执行 python web_ssd.py 在本地运行
+执行 python web_ssd.py 在本地运行，路径需要根据本地配置
+![image](https://github.com/Rhythmoo/SSD_NET/blob/master/pictures/1.png)
+![image](https://github.com/Rhythmoo/SSD_NET/blob/master/pictures/2.png)
 
 
 
